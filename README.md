@@ -2,12 +2,12 @@
 The objective of this tutorial is to get started with Expo and become familiar with the Expo SDK. It'll cover the following topics:
 
 ## Create an Expo App
-**01.** Break down the app layout and implement it with flexbox.
-**02.** Use each platform's system UI to select an image from the media library.
-**03.** Create a sticker modal using the `<Modal>` and `<FlatList>` components from React Native.
-**07.** Add touch gestures to interact with a sticker.
-**05.** Use third-party libraries to capture a screenshot and save it to the disk.
-**06.** Handle platform differences between Android, iOS, and web.
+**01.** Break down the app layout and implement it with flexbox.  
+**02.** Use each platform's system UI to select an image from the media library.  
+**03.** Create a sticker modal using the `<Modal>` and `<FlatList>` components from React Native.  
+**07.** Add touch gestures to interact with a sticker.  
+**05.** Use third-party libraries to capture a screenshot and save it to the disk.  
+**06.** Handle platform differences between Android, iOS, and web.  
 **07.** Finally, go through the process of configuring a status bar, a splash screen, and an icon to complete the app.  
 
 ## Run the app on mobile and web  
