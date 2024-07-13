@@ -10,7 +10,11 @@ The objective of this tutorial is to get started with Expo and become familiar w
 **06.** Handle platform differences between Android, iOS, and web.
 **07.** Finally, go through the process of configuring a status bar, a splash screen, and an icon to complete the app.  
 
-## Run the app on mobile and web
+## Run the app on mobile and web  
+Installing dependencies: 
+```
+npm install
+```
 In the project directory, run the following command to start a development server from the terminal:
 ```
 npx expo start
